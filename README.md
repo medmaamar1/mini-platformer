@@ -4,8 +4,7 @@
 A classic platformer game developed in JavaFX, demonstrating the practical application of 4+ design patterns. The project features a fully animated hero, diverse enemies, interactive obstacles, and a real-time logging system for traceability of all game events.
 
 ## Membres du Groupe
-- **Antigravity AI** (Lead Developer)
-- **User** (Lead Architect)
+- **Mohamed Maamar** (Classe C)
 
 ## Technologies Utilisées
 - **Langage** : Java 17
